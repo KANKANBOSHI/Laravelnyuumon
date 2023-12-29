@@ -1,1 +1,3 @@
 # Laravelnyuumon
+
+これは今井侃のLaravel勉強用リポジトリです
